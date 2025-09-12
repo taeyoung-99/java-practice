@@ -4,6 +4,6 @@ public class ChapterEx8 {
     public static void main(String[] args) {
         char firstLetter = 'T';
 
-        System.out.println("The dinosaur specie is " + firstLetter);
+        System.out.println("The dinosaur species is " + firstLetter);
     }
 }
